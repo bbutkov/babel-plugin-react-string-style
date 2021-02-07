@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`nested node 1`] = `
+"<div style={
+  width: \\"12px\\"
+}><span style={
+    height: \\"20px\\"
+  }></span></div>;"
+`;
+
+exports[`single node 1`] = `
+"<div style={
+  width: \\"12px\\"
+} />;"
+`;
